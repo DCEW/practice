@@ -6,8 +6,9 @@ editor: visual
 embed-resources: true
 ---
 
-## Quarto- Charlotte's Version
+## Quarto- Claire's Version
 
+Adding to this to see changes
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
 ## Running Code
